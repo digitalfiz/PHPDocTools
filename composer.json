@@ -1,6 +1,6 @@
 {
     "name": "digitalfiz/phpdoctools",
-    "description": "A set of classes to load and work with certain types of document formats.",
+    "description": "This is a set of convenience classes to make working with files like CSV and JSON files easier and more consistent.",
     "minimum-stability": "dev",
     "license": "proprietary",
     "authors": [
