@@ -1,7 +1,6 @@
+# PHPDocTools
 
-
-# Examples
-Here are a few examples for you good folks
+This is a set of convenience classes to make working with files like CSV and JSON files easier and more consistent.
 
 ## Reading JSON
 With the JSON loader you have 2 options for loading the file.
