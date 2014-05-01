@@ -1,0 +1,15 @@
+[
+    {
+        "ProductName": "Pizza",
+        "Category": 1,
+        "Price": 3.99,
+        "Cost": 1.45
+    },
+
+    {
+        "ProductName": "Cake",
+        "Category": 1,
+        "Price": 1.50,
+        "Cost": 0.50
+    }
+]
